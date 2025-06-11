@@ -1,2 +1,2 @@
 # playwright-python-saucedemo
-Automated UI tests for SausceDemo using Playwright and Python
+Automated UI tests for SauceDemo using Playwright and Python
